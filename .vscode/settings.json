@@ -34,5 +34,6 @@
     "servidor",
     "tela",
     "tipo"
-  ]
+  ],
+  "cSpell.ignoreWords": ["browserslist"]
 }
