@@ -48,6 +48,21 @@ const data = {
       numReviews: 10,
       description: "high quality product",
     },
+    {
+      name: "Refined Plastic Bike",
+      description:
+        "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      category: "Fantastic",
+      image: "http://placeimg.com/640/480/business",
+      price: "127.00",
+      material: "Metal",
+      departamento: "Grocery",
+      countInStock: 5,
+      brand: "Puma",
+      rating: 4.5,
+      numReviews: 10,
+      id: "1",
+    },
   ],
 };
 export default data;
