@@ -95,6 +95,24 @@ function ProductScreen() {
                 </ListGroup.Item>
                 <ListGroup.Item>
                   <Row>
+                    <Col>Material:</Col>
+                    <Col>{product.material}</Col>
+                  </Row>
+                </ListGroup.Item>
+                <ListGroup.Item>
+                  <Row>
+                    <Col>ID:</Col>
+                    <Col>{product.id}</Col>
+                  </Row>
+                </ListGroup.Item>
+                <ListGroup.Item>
+                  <Row>
+                    <Col>Department:</Col>
+                    <Col>{product.department}</Col>
+                  </Row>
+                </ListGroup.Item>
+                <ListGroup.Item>
+                  <Row>
                     <Col>Status:</Col>
                     <Col>
                       {product.countInStock > 0 ? (
