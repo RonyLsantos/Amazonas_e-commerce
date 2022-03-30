@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu projeto de estudo com React and Node para criar um e-commerce inspirado na Amazon, (MongoDB, ExpressJS, React e Node.JS).
 
-Nome, descrição e imagens podem não ter relação um com o outro, são apenas dados gerados aleatoriamente.
+Nome, descrição e imagens dos produtos, podem não ter relação um com o outro, são apenas dados gerados aleatoriamente.
 
 # depondencias:
 
