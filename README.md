@@ -4,7 +4,7 @@ Bem-vindo ao meu projeto de estudo com React and Node para criar um e-commerce i
 
 Nome, descrição e imagens dos produtos, podem não ter relação um com o outro, são apenas dados gerados aleatoriamente.
 
-# depondencias:
+# Depondencias:
 
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
