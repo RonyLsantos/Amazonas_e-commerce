@@ -78,7 +78,10 @@ function App() {
           </Container>
         </main>
         <footer>
-          <div className='text-center'>All rights reserved</div>
+          <div className='text-center'>
+            The project being used for the study and composition of a portfolio,
+            produced by Rony Lopes.
+          </div>
         </footer>
       </div>
     </BrowserRouter>
