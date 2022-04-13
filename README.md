@@ -23,6 +23,11 @@ Nome, descrição e imagens dos produtos, podem não ter relação um com o outr
     "use-reducer-logger": "^1.0.2",
     "web-vitals": "^2.1.4"
 
+## Arquivo .env
+
+MONGODB_URI=mongodb://localhost/Amazonas
+mongodb+srv://Amazonas:123456a@cluster0.spnv7.mongodb.net/Amazonas?retryWrites=true&w=majority
+
 ## Run Backend e Frontend
 
 $ cd backend
