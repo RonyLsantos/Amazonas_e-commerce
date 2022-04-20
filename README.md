@@ -8,7 +8,7 @@ Nome, descrição e imagens dos produtos, podem não ter relação um com o outr
 
 ![image](https://user-images.githubusercontent.com/101899348/164261510-bfe4fec8-2775-4861-aa13-edc902fa3dc7.png)
 
-![image](https://user-images.githubusercontent.com/101899348/164268054-39c0578c-0377-48ce-87fb-4cff18eed5a4.png)
+![image](https://user-images.githubusercontent.com/101899348/164270947-637c06d3-2042-49e4-a658-e3e8794ee748.png)
 
 # Depondencias:
 
